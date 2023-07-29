@@ -1,0 +1,40 @@
+.barno{
+    border: 1px solid black;
+    background-color: black;
+    width: 250px;
+}
+body{
+    background-color: rgb(69, 68, 68);
+}
+.up{
+    width: 250px;
+}
+input{
+    background-color: rgb(71, 70, 70);
+    width: 200px;
+}
+label{
+    color: darkgrey;
+    text-align: left;
+    padding: 0.5rem;
+    
+}
+.nasiba{
+    display: flex;
+}
+.width{
+    width: 10px;
+}
+.sub{
+    width: 200px;
+    position: relative;
+    left: 20px;
+    color: white;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+    border-color: cornflowerblue;
+}

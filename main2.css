@@ -1,0 +1,27 @@
+body{
+    background-color: darkcyan;
+}
+form{
+    border: 1px solid darkcyan;
+    width: 300px;
+}
+h1{
+    color: white;
+    margin-right: 100px;
+}
+input{
+    width: 250px;
+    margin-top: 10px;
+    border: 1px solid white;
+    height: 20px;
+}
+.barno{
+    position: relative;
+    left: 200px;
+}
+.submit{
+    background-color: cornflowerblue;
+    color: white;
+    width: 260px;
+    border: 1px solid cornflowerblue;
+}

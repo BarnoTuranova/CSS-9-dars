@@ -1,0 +1,55 @@
+.barno{
+    background-color: rgb(87, 101, 101);
+    height: 300px;
+    width: 400px;
+}
+h1{
+    color: white;
+}
+.up{
+    background-color: rgb(88, 193, 93);
+    width: 40%;
+    border-color: rgb(88, 193, 93);
+    color: white;
+    height:30px;
+    margin-left: 50px;
+}
+.in{
+    background-color: darkgray;
+    color: white;
+    width: 40%;
+    height: 30px;
+    border-color: darkgray;
+}
+.flex{
+display: flex;
+}
+.first{
+    background-color: rgb(87, 101, 101);
+    border-color: white;
+    margin-left: 25px;
+    color: white;
+}
+.last{
+    background-color: rgb(87, 101, 101);
+    border-color: white;
+    margin-left: 10px;
+    color: white;
+}
+
+.pass, .email{
+    width: 345px;
+    background-color: rgb(87, 101, 101);
+    border-color: #fff;
+    margin-top: 5px;
+}
+input{
+    height: 20px;
+}
+.get{
+    background-color: rgb(88, 193, 93);
+    color: white;
+    width: 355px;
+    border-color: rgb(88, 193, 93);
+    margin-top: 5px;
+}

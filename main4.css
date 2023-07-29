@@ -1,0 +1,73 @@
+.wrap{
+    width: 50%;
+}
+input{
+    color:white;
+    background-color: forestgreen;
+    width: 100px;
+    height: 50px;
+    border-color: forestgreen;
+    position: relative;
+    left: 110px;
+    font-size: 15px;
+}
+img{
+    background-size: 50%;
+    width: 50%;
+    position:   absolute;
+    left: 400px;
+    bottom: 70px;
+    height: 500px;
+}
+#rr{
+    position: relative;
+    left: 450px;
+    bottom: 350px;
+    color: white;
+}
+#gg{
+    position: relative;
+    left: 500px;
+    bottom: 330px;
+    color: white;
+    background-color: dodgerblue;
+    width: 220px;
+    border-color: dodgerblue;
+height: 30px;
+}
+#tt{
+    position: relative;
+    left: 275px;
+    bottom: 270px;
+    color: white;
+    background-color: orange;
+    width: 220px;
+    border-color: orange;
+height: 30px;
+}
+#ee{
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    color: white;
+    background-color: brown;
+    width: 220px;
+    border-color: brown;
+    height: 30px;
+}
+h4{
+    position: relative;
+    border-radius: 50%;
+    color: black;
+    background-color: darkgray;
+    width: 40px;
+    height: 40px;
+    left: 370px;
+    bottom: 330px;
+    font-size: 20px;
+    text-align: center;
+    font-style: normal;
+}
+h3{
+    color: rgb(109, 110, 110);
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+.ter{
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 250px;
+}
+.ter2{
+    margin-top: 20px;
+}
+center{
+    border: 1px solid aquamarine;
+    width: 300px;
+    height: 200px;
+    position: center;
+}
+.hh{
+    margin-top: 10px;
+}
+.login{
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 150px;
+    color: aquamarine;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.help{
+    background-color: grey;
+    color: gainsboro;
+    border: 1px solid grey;
+}
